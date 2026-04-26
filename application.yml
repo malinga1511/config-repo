@@ -1,0 +1,5 @@
+app:
+  gateway-url: http://localhost:8080/
+  timeout: 5000
+  max-retry: 3
+  correlation-id-header: X-Correlation-Id
